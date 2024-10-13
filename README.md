@@ -1,7 +1,5 @@
 # Registration System
 
-# Title
-
 Develop a registration system like the ones you've probably already coded for your applications (essentially, a member area).
 
 The task is to code a single class called **Registration** that has only one method: execute.

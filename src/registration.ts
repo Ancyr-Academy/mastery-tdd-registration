@@ -5,3 +5,4 @@ export class RegistrationCommand {
 export class Registration {
   execute(command: RegistrationCommand) {}
 }
+
